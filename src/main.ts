@@ -1,6 +1,7 @@
 import './assets/main.css'
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
+
 import '@mdi/font/css/materialdesignicons.css'
 import 'vuetify/styles'
 import { createVuetify } from 'vuetify'
