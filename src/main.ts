@@ -19,7 +19,5 @@ const vuetify = createVuetify({
 app.use(createPinia())
   .use(router)
   .use(vuetify)
-// Vue.use(BootstrapVue)
-// Vue.use(BootstrapVueIcons)
 
 app.mount('#app')
